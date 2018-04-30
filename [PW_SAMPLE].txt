@@ -1,0 +1,17 @@
+hey there/Greetings, hope you will be fine. This is "Your name", working on cross-platforms/Windows/Mac/Linux desktop applications development. I have checked/read your requirements, actually you are going to develop/create a point of sale(POS) system for your food-cafe with the following features/modules
+
+0-Add/Edit/Delete Food items/Menus
+1-Customer Billing service
+2-Daily purchased itmes w.r.t categories
+3-Daily base reports (selling/purchasing)
+4-Monthly profit report
+5-A module to manage Monthly expenses Electiricity/Gass/Rent/Salaries for examples
+
+I possess question for you to consider,
+
+1- What will be the supported platform for this system? Windows/Mac/Linux/Cross-platforms for examples
+2- Is ther any language restricions? .net, Vb for examples
+
+Please view my online portfolio via the below link "Link Here" 
+If you have any quries, i would be happy to assist you! Please feel free to contact me at any moment. Thanks 
+Looking forward to your response!
